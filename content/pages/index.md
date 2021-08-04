@@ -22,17 +22,6 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
-  - type: cta_section
-    title: This Is A CTA
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
-    has_background: true
-    background_color: gray
 seo:
   title: Stackbit Starter Theme
   description: The preview of the Starter theme
