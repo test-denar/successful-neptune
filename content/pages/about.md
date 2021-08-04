@@ -38,9 +38,6 @@ sections:
   - title: lorem-ipsum
     features: []
     type: features_section
-  - title: lorem-ipsum
-    features: []
-    type: features_section
 seo:
   title: Who We Are
   description: This is the about us page
