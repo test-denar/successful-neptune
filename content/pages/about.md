@@ -11,12 +11,6 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
-        url: '#'
-        style: link
-        new_window: false
-        no_follow: false
-        type: action
   - type: content_section
     content: >-
       Nisi porta lorem mollis aliquam ut porttitor. Pellentesque dignissim enim
